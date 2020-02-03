@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1016415702155",
+    "firebase_url": "https://firedb-aeb72.firebaseio.com",
+    "project_id": "firedb-aeb72",
+    "storage_bucket": "firedb-aeb72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016415702155:android:7aba6f2492fc5bcda3988e",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016415702155-qs8b31hfrpqgm10ca7h50alruh1dvhvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuo-5oTGQ6gwsn2cx2dlX_JVrs37l5vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016415702155-qs8b31hfrpqgm10ca7h50alruh1dvhvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016415702155:android:8b9fc438fed471d5a3988e",
+        "android_client_info": {
+          "package_name": "org.pola.firedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016415702155-qs8b31hfrpqgm10ca7h50alruh1dvhvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuo-5oTGQ6gwsn2cx2dlX_JVrs37l5vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016415702155-qs8b31hfrpqgm10ca7h50alruh1dvhvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
